@@ -10,7 +10,7 @@ Minimal redux structure with typescript, using:
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 - [immer](https://immerjs.github.io/immer/docs/introduction)
 
-### 👷‍♂️️ Execução
+### 👷‍♂️️ Execution
 
 ```bash
 
