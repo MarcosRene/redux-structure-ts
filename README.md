@@ -24,7 +24,7 @@ $ cd redux-struct-ts
 $ npm install || yarn install
 
 # Run application.
-$ npm install || yarn start
+$ npm run || yarn start
 
 # running port 3000
 
